@@ -1,0 +1,6 @@
+food-suggestion-app
+original_data
+khangEnv
+data/
+scripts/model/embeddings.pkl
+ingr_map.pkl
